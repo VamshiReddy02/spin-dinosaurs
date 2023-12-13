@@ -41,5 +41,5 @@ $ spin deploy
 
 ## Credits
 
-The Next.js template is based on the
+The Docusaurus template is based on the
 [official Docusaurus template](https://docusaurus.io/docs/installation).
