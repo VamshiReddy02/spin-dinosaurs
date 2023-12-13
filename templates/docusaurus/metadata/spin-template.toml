@@ -1,4 +1,4 @@
-manifest_version = "2"
+manifest_version = "1"
 id = "Docusaurus"
 description = "Build your front-end application using Docusaurus and Spin"
 
