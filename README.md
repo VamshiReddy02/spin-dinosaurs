@@ -25,7 +25,7 @@ Installed 1 template
 
 Before you can build your Docusaurus application, make sure to run `npm install` in
 the target directory. You are now ready to start building your front-end. Run
-`npm run dev` and start editing your application. Alternatively, you can run
+`npm start` and start editing your application. Alternatively, you can run
 `spin build` and `spin up` to build and run your application.
 
 
