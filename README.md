@@ -43,4 +43,5 @@ $ spin deploy
 
 The Docusaurus template is based on the
 [official Docusaurus template](https://docusaurus.io/docs/installation).
+
 [Blog on Deploying Docusaurus Website on Fermyon Cloud using Spin by Dipankar Das](https://medium.com/@dipankardas0115/bridging-distances-deploying-docusaurus-website-on-fermyon-cloud-using-spin-aws-cloudfront-and-fe0609ab79a7).
